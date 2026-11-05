@@ -1,0 +1,67 @@
+{
+  "sectors": [
+    {
+      "id": "food",
+      "name": "Food & Eateries",
+      "short": "Food Stalls",
+      "icon": "utensils"
+    },
+    {
+      "id": "retail",
+      "name": "Sari-sari & Retail",
+      "short": "Sari-sari Stores",
+      "icon": "store"
+    },
+    {
+      "id": "beauty",
+      "name": "Salon & Wellness",
+      "short": "Salons & Spas",
+      "icon": "scissors"
+    },
+    {
+      "id": "services",
+      "name": "Repair & Services",
+      "short": "Repair Shops",
+      "icon": "wrench"
+    },
+    {
+      "id": "agri",
+      "name": "Farm & Agriculture",
+      "short": "Farms",
+      "icon": "sprout"
+    },
+    {
+      "id": "crafts",
+      "name": "Crafts & Handmade",
+      "short": "Handicrafts",
+      "icon": "palette"
+    },
+    {
+      "id": "tourism",
+      "name": "Tourism & Travel",
+      "short": "Tours",
+      "icon": "plane"
+    }
+  ],
+  "types": [
+    {
+      "id": "website",
+      "name": "Websites",
+      "one": "Website",
+      "icon": "monitor"
+    },
+    {
+      "id": "app",
+      "name": "Mobile Apps",
+      "one": "Mobile App",
+      "icon": "phone"
+    },
+    {
+      "id": "banner",
+      "name": "Banners",
+      "one": "Banner",
+      "icon": "image"
+    },
+    { "id": "ad", "name": "Ads", "one": "Ad Set", "icon": "megaphone" }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "skills": [
+    "Website Developer",
+    "UI/UX Designer",
+    "Graphic Designer",
+    "Content Creator",
+    "Photographer",
+    "Social Media"
+  ],
+  "creators": [
+    {
+      "id": "c1",
+      "name": "Maria Santos",
+      "role": "Website Developer",
+      "city": "Quezon City",
+      "rate": "₱450/hour",
+      "rating": 4.9,
+      "jobs": 62,
+      "years": 7,
+      "verified": true,
+      "skills": ["Website Developer", "UI/UX Designer"],
+      "bio": "I build simple websites for small businesses and teach owners how to update them on their own. Patience is part of my service.",
+      "replyTime": "Usually replies within 1 hour",
+      "hue": 220,
+      "portfolio": [
+        "Karinderya website",
+        "Hardware store website",
+        "Bakery order page",
+        "Clinic appointment page"
+      ]
+    },
+    {
+      "id": "c2",
+      "name": "Jose Ramos",
+      "role": "Graphic Designer",
+      "city": "Cebu City",
+      "rate": "₱350/hour",
+      "rating": 4.8,
+      "jobs": 48,
+      "years": 5,
+      "verified": true,
+      "skills": ["Graphic Designer", "Social Media"],
+      "bio": "Logos, tarpaulins, and social media posts that make your business easy to remember.",
+      "replyTime": "Usually replies within 2 hours",
+      "hue": 265,
+      "portfolio": [
+        "Fresh seafood logo",
+        "Barangay fair tarpaulin",
+        "Salon price list",
+        "Rice dealer logo"
+      ]
+    },
+    {
+      "id": "c3",
+      "name": "Angelica Cruz",
+      "role": "UI/UX Designer",
+      "city": "Davao City",
+      "rate": "₱500/hour",
+      "rating": 5,
+      "jobs": 35,
+      "years": 6,
+      "verified": true,
+      "skills": ["UI/UX Designer", "Website Developer"],
+      "bio": "I design websites that are easy for everyone to use, including parents and grandparents.",
+      "replyTime": "Usually replies within 3 hours",
+      "hue": 195,
+      "portfolio": [
+        "Coop member site",
+        "Farm shop layout",
+        "Pharmacy website",
+        "Tour booking page"
+      ]
+    },
+    {
+      "id": "c4",
+      "name": "Ramon Villanueva",
+      "role": "Website Developer",
+      "city": "Iloilo City",
+      "rate": "₱400/hour",
+      "rating": 4.7,
+      "jobs": 29,
+      "years": 4,
+      "verified": true,
+      "skills": ["Website Developer"],
+      "bio": "Affordable template setup and customization, usually finished within one week.",
+      "replyTime": "Usually replies same day",
+      "hue": 160,
+      "portfolio": [
+        "Auto shop site",
+        "Pasalubong store",
+        "Water refilling site",
+        "Print shop site"
+      ]
+    },
+    {
+      "id": "c5",
+      "name": "Liza Dela Rosa",
+      "role": "Content Creator",
+      "city": "Baguio City",
+      "rate": "₱300/hour",
+      "rating": 4.9,
+      "jobs": 54,
+      "years": 5,
+      "verified": true,
+      "skills": ["Content Creator", "Social Media", "Photographer"],
+      "bio": "I write your posts and shoot your products so your page stays active while you run your shop.",
+      "replyTime": "Usually replies within 1 hour",
+      "hue": 300,
+      "portfolio": [
+        "Café product photos",
+        "Weekly post calendar",
+        "Strawberry farm reels",
+        "Homestay story"
+      ]
+    },
+    {
+      "id": "c6",
+      "name": "Paolo Mendoza",
+      "role": "Photographer",
+      "city": "Makati City",
+      "rate": "₱600/hour",
+      "rating": 4.6,
+      "jobs": 21,
+      "years": 8,
+      "verified": false,
+      "skills": ["Photographer", "Content Creator"],
+      "bio": "Product and food photography. Good photos help your customers decide.",
+      "replyTime": "Usually replies within 1 day",
+      "hue": 30,
+      "portfolio": [
+        "Bakery food shoot",
+        "Handbag catalog",
+        "Restaurant interior",
+        "Coffee product line"
+      ]
+    },
+    {
+      "id": "c7",
+      "name": "Grace Bautista",
+      "role": "Social Media",
+      "city": "Bacolod City",
+      "rate": "₱320/hour",
+      "rating": 4.8,
+      "jobs": 40,
+      "years": 4,
+      "verified": true,
+      "skills": ["Social Media", "Graphic Designer"],
+      "bio": "I set up your Facebook page properly and show you what to post each week.",
+      "replyTime": "Usually replies within 2 hours",
+      "hue": 340,
+      "portfolio": [
+        "Sari-sari page setup",
+        "Piaya shop posts",
+        "Laundry promo ads",
+        "Event page design"
+      ]
+    },
+    {
+      "id": "c8",
+      "name": "Mark Aquino",
+      "role": "UI/UX Designer",
+      "city": "Cagayan de Oro",
+      "rate": "₱420/hour",
+      "rating": 4.7,
+      "jobs": 18,
+      "years": 3,
+      "verified": false,
+      "skills": ["UI/UX Designer", "Graphic Designer"],
+      "bio": "Clean, clear designs for mobile screens, with large buttons and easy steps.",
+      "replyTime": "Usually replies same day",
+      "hue": 245,
+      "portfolio": [
+        "Loyalty card screens",
+        "Food order flow",
+        "Tutor booking design",
+        "Church bulletin site"
+      ]
+    }
+  ]
+}

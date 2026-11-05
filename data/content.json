@@ -1,0 +1,233 @@
+{
+  "stories": [
+    {
+      "sector": "Karinderya, Quezon City",
+      "value": 180,
+      "label": "more customers asking for the menu online within 6 months",
+      "icon": "utensils"
+    },
+    {
+      "sector": "Hardware Store, Cebu",
+      "value": 250,
+      "label": "more phone inquiries after adding a simple website",
+      "icon": "wrench"
+    },
+    {
+      "sector": "Salon, Davao",
+      "value": 120,
+      "label": "more bookings after showing prices and photos online",
+      "icon": "scissors"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Nenita Flores",
+      "biz": "Owner, Nena's Carinderia",
+      "text": "I am 62 and I do not know computers. Webify showed me step by step, and now my customers can see my menu on their phones."
+    },
+    {
+      "name": "Benjamin Ocampo",
+      "biz": "Owner, Ocampo Hardware",
+      "text": "I thought a website was only for big companies. The price was affordable and the creator was very patient with all of my questions."
+    },
+    {
+      "name": "Rosalie Javier",
+      "biz": "Owner, Rose Beauty Salon",
+      "text": "The adviser explained everything in simple words. I booked a session in a few minutes and left with a clear plan for my business."
+    }
+  ],
+  "faqs": [
+    [
+      "Do I need to know about computers to use Webify?",
+      "No. Every page uses big buttons and plain words. If you get stuck, press the blue Help button at the bottom of the screen. It tells you what to do on that page."
+    ],
+    [
+      "How much does it cost?",
+      "Designs start at ₱299 and you only pay once. Creators set their own hourly rates, which you can see on their profile before you message them."
+    ],
+    [
+      "What is a template?",
+      "A template is a ready-made design. Think of it as a ready-to-wear dress that only needs small adjustments: you add your business name, photos, and prices, and it is ready."
+    ],
+    [
+      "How do I know a creator can be trusted?",
+      "Look for the blue Verified badge. It means Webify has checked that person's identity and past work. You can also read their ratings and see their portfolio."
+    ],
+    [
+      "Can a person help me set everything up?",
+      "Yes. Choose Creators to hire someone, or choose Get Advice to book a session with a business adviser."
+    ],
+    [
+      "Can I make the words on the screen bigger?",
+      "Yes. Press the blue Help button at the bottom of the screen, then press \"Change text size and colors\". Your choice is remembered the next time you visit."
+    ]
+  ],
+  "boundaries": [
+    {
+      "icon": "store",
+      "title": "Shipping and warehousing",
+      "text": "We help you set up your website and license designs. We do not store your products, track inventory, or deliver orders."
+    },
+    {
+      "icon": "code",
+      "title": "Custom apps and large software",
+      "text": "We work with templates and standard website changes. Building a custom iPhone or Android app or large company software is outside what we offer."
+    },
+    {
+      "icon": "book",
+      "title": "Legal, tax, and audit work",
+      "text": "Our advisers give practical business and digital guidance. They do not act as your lawyer, file your taxes, or audit your books."
+    }
+  ],
+  "checkQuestions": [
+    {
+      "id": "sector",
+      "q": "What kind of business do you have?",
+      "hint": "This helps us suggest designs that fit you.",
+      "opts": null
+    },
+    {
+      "id": "presence",
+      "q": "Can customers find your business online today?",
+      "hint": "Pick the answer closest to your situation.",
+      "opts": [
+        ["Not yet, we are not online", 0],
+        ["Yes, on Facebook or chat only", 1],
+        ["Yes, we have a simple website", 2],
+        ["Yes, we have a website and take orders", 3]
+      ]
+    },
+    {
+      "id": "discovery",
+      "q": "How do most new customers find you?",
+      "hint": "Think about the last few new customers you had.",
+      "opts": [
+        ["They walk by or a friend tells them", 0],
+        ["They message us on Facebook", 1],
+        ["They search on Google or Maps", 2],
+        ["A mix of many online and offline ways", 3]
+      ]
+    },
+    {
+      "id": "assets",
+      "q": "Do you have photos and a logo for your business?",
+      "hint": "Do not worry if you have none. Many owners start this way.",
+      "opts": [
+        ["No, I have neither yet", 0],
+        ["I have some phone photos", 1],
+        ["I have good photos but no logo", 2],
+        ["Yes, I have photos and a logo", 3]
+      ]
+    },
+    {
+      "id": "comfort",
+      "q": "How comfortable are you using a phone or computer?",
+      "hint": "There is no wrong answer here.",
+      "opts": [
+        ["I usually ask someone to help me", 0],
+        ["I can call, text, and use Facebook", 1],
+        ["I can fill out forms and send emails", 2],
+        ["I am very comfortable with technology", 3]
+      ]
+    },
+    {
+      "id": "payment",
+      "q": "Can customers pay you without cash?",
+      "hint": "For example, using GCash, Maya, or a bank transfer.",
+      "opts": [
+        ["No, cash only", 0],
+        ["Sometimes, by GCash or Maya", 1],
+        ["Yes, GCash or Maya regularly", 2],
+        ["Yes, many ways to pay", 3]
+      ]
+    },
+    {
+      "id": "budget",
+      "q": "How much could you spend to get online?",
+      "hint": "A rough idea is fine. It is only used for your suggestions.",
+      "opts": [
+        ["Under ₱1,000", "low"],
+        ["₱1,000 to ₱5,000", "mid"],
+        ["₱5,000 to ₱15,000", "high"],
+        ["More than ₱15,000", "high"]
+      ]
+    },
+    {
+      "id": "goal",
+      "q": "What do you want most right now?",
+      "hint": "Choose the one that matters most to you.",
+      "opts": [
+        ["Get more customers", "customers"],
+        ["Look more trustworthy", "trust"],
+        ["Take orders or bookings online", "orders"],
+        ["I am not sure yet", "unsure"]
+      ]
+    }
+  ],
+  "helpByRoute": {
+    "home": {
+      "title": "Using the Home page",
+      "steps": [
+        "Read the big cards under \"What would you like to do today?\"",
+        "Press the card for what you want to do.",
+        "Not sure? Press \"Start the Business Check\" for a suggestion."
+      ]
+    },
+    "templates": {
+      "title": "Finding a design",
+      "steps": [
+        "Choose your type of business from the list, or type a word in the search box.",
+        "Press \"Preview\" to see the design up close, on a computer or a phone.",
+        "Press \"Add to Cart\" when you like one. Then press the Cart button at the top to finish."
+      ]
+    },
+    "creators": {
+      "title": "Finding a creator",
+      "steps": [
+        "Type what you need, or press a skill button such as \"Graphic Designer\".",
+        "Press \"View Profile\" to see their past work and rating.",
+        "Press \"Send Message\" to talk to them. Saying hello is free."
+      ]
+    },
+    "messages": {
+      "title": "Sending a message",
+      "steps": [
+        "Choose a person from the list.",
+        "Type your message in the box at the bottom, or press one of the ready-made messages.",
+        "Press the \"Send\" button. Their answer appears on this page."
+      ]
+    },
+    "advice": {
+      "title": "Booking an adviser",
+      "steps": [
+        "Pick the topic you need help with.",
+        "Pick an adviser, then pick a day and a time.",
+        "Type your name and contact details, then press \"Confirm Booking\". You will see it under My Projects."
+      ]
+    },
+    "check": {
+      "title": "Taking the Business Check",
+      "steps": [
+        "Read each question and press the answer closest to your situation.",
+        "Use the \"Go Back\" button if you want to change an answer.",
+        "At the end you will get a score and clear suggestions on what to do next."
+      ]
+    },
+    "projects": {
+      "title": "Using My Projects",
+      "steps": [
+        "See every project and how far along it is.",
+        "When a creator sends work, press \"Approve\" if you like it, or \"Ask for Changes\" if you do not.",
+        "Press \"Appointments\" to see adviser sessions you have booked."
+      ]
+    },
+    "default": {
+      "title": "Finding your way",
+      "steps": [
+        "Use the menu to move between pages.",
+        "Press the Webify logo at any time to return to the Home page.",
+        "Use your browser's back button to return to the last page."
+      ]
+    }
+  }
+}

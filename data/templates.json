@@ -1,0 +1,330 @@
+{
+  "sectorContent": {
+    "food": {
+      "biz": "Aling Nena's Kitchen",
+      "tagline": "Home-cooked Filipino meals, ready when you are.",
+      "about": "Serving the neighborhood for over 15 years with recipes passed down through the family.",
+      "itemsTitle": "Today's Menu",
+      "items": [
+        ["Chicken Adobo", "₱95"],
+        ["Pork Sinigang", "₱110"],
+        ["Pancit Canton", "₱70"]
+      ],
+      "offer": "Free softdrink with every family meal"
+    },
+    "retail": {
+      "biz": "Tindahan ni Mang Ben",
+      "tagline": "Your everyday needs, just around the corner.",
+      "about": "A trusted neighborhood store for groceries, load, and household basics.",
+      "itemsTitle": "Popular Items",
+      "items": [
+        ["Snacks & Drinks", "₱10 up"],
+        ["Groceries & Basics", "₱20 up"],
+        ["Fresh Goods", "₱25 up"]
+      ],
+      "offer": "Grand opening: 10% off all weekend"
+    },
+    "beauty": {
+      "biz": "Bella Salon & Spa",
+      "tagline": "Look good, feel better, every visit.",
+      "about": "Friendly licensed stylists and a relaxing place to take care of yourself.",
+      "itemsTitle": "Our Services",
+      "items": [
+        ["Haircut & Blow-dry", "₱250"],
+        ["Hand & Foot Spa", "₱350"],
+        ["Full Body Massage", "₱500"]
+      ],
+      "offer": "First visit: free hair treatment"
+    },
+    "services": {
+      "biz": "Ayos Agad Repair",
+      "tagline": "Fast, honest repairs for your home and appliances.",
+      "about": "Skilled technicians who explain the problem clearly and charge a fair price.",
+      "itemsTitle": "What We Fix",
+      "items": [
+        ["Aircon Cleaning", "₱800"],
+        ["Electric Fan Repair", "₱250"],
+        ["Plumbing Check", "₱300"]
+      ],
+      "offer": "Free checkup for senior citizens"
+    },
+    "agri": {
+      "biz": "Bukid Fresh Farm",
+      "tagline": "Fresh from our farm straight to your table.",
+      "about": "A family farm growing vegetables and fruit without middlemen.",
+      "itemsTitle": "This Week's Harvest",
+      "items": [
+        ["Pechay, per bundle", "₱25"],
+        ["Native Tomatoes, kilo", "₱60"],
+        ["Carabao Mango, kilo", "₱120"]
+      ],
+      "offer": "Harvest sale: buy 3 kilos, get 1 free"
+    },
+    "crafts": {
+      "biz": "Habi Handicrafts",
+      "tagline": "Handwoven with care by local artisans.",
+      "about": "Every bag and basket supports weaving families in our community.",
+      "itemsTitle": "Our Collection",
+      "items": [
+        ["Woven Bag", "₱650"],
+        ["Abaca Basket", "₱380"],
+        ["Table Runner", "₱420"]
+      ],
+      "offer": "Free name tag on every gift order"
+    },
+    "tourism": {
+      "biz": "Isla Tours",
+      "tagline": "Island adventures with friendly local guides.",
+      "about": "Small group tours run by people who grew up on these islands.",
+      "itemsTitle": "Tour Packages",
+      "items": [
+        ["Island Hopping", "₱1,200"],
+        ["Heritage Town Walk", "₱600"],
+        ["Sunset Boat Ride", "₱900"]
+      ],
+      "offer": "Group of 5? The 6th joins free"
+    }
+  },
+  "templates": [
+    {
+      "id": "t1",
+      "name": "Karinderya Classic",
+      "type": "website",
+      "sector": "food",
+      "layout": "split",
+      "price": 799,
+      "rating": 4.9,
+      "sold": 128,
+      "pal": ["#C2410C", "#F59E0B", "#FFF7ED", "#431407"],
+      "desc": "A warm one-page website that shows your menu, opening hours, and how to reach you."
+    },
+    {
+      "id": "t2",
+      "name": "Lutong Bahay Menu",
+      "type": "website",
+      "sector": "food",
+      "layout": "center",
+      "price": 999,
+      "rating": 4.8,
+      "sold": 94,
+      "pal": ["#B91C1C", "#EA580C", "#FEF2F2", "#450A0A"],
+      "desc": "Puts your best dishes front and center, with a large photo area and prices that are easy to read."
+    },
+    {
+      "id": "t3",
+      "name": "Sari-Sari Online",
+      "type": "website",
+      "sector": "retail",
+      "layout": "split",
+      "price": 699,
+      "rating": 4.7,
+      "sold": 211,
+      "pal": ["#1D4ED8", "#0EA5E9", "#EFF6FF", "#172554"],
+      "desc": "A simple store page so your neighbors can see what you sell and message you to reserve items."
+    },
+    {
+      "id": "t4",
+      "name": "Tindahan Plus",
+      "type": "website",
+      "sector": "retail",
+      "layout": "mag",
+      "price": 1199,
+      "rating": 4.8,
+      "sold": 76,
+      "pal": ["#047857", "#10B981", "#ECFDF5", "#022C22"],
+      "desc": "A roomier layout for stores with many product groups, with a clear section for each."
+    },
+    {
+      "id": "t5",
+      "name": "Ganda Salon",
+      "type": "website",
+      "sector": "beauty",
+      "layout": "center",
+      "price": 899,
+      "rating": 4.9,
+      "sold": 103,
+      "pal": ["#BE185D", "#F472B6", "#FDF2F8", "#500724"],
+      "desc": "An elegant page for your services and prices, with a large button for booking an appointment."
+    },
+    {
+      "id": "t6",
+      "name": "Aliw Spa & Wellness",
+      "type": "website",
+      "sector": "beauty",
+      "layout": "mag",
+      "price": 1299,
+      "rating": 4.6,
+      "sold": 58,
+      "pal": ["#0F766E", "#5EEAD4", "#F0FDFA", "#042F2E"],
+      "desc": "Calm colors and generous spacing that help visitors feel relaxed before they even arrive."
+    },
+    {
+      "id": "t7",
+      "name": "Ayos Repair Shop",
+      "type": "website",
+      "sector": "services",
+      "layout": "split",
+      "price": 799,
+      "rating": 4.8,
+      "sold": 87,
+      "pal": ["#1E3A8A", "#F59E0B", "#F8FAFC", "#0F172A"],
+      "desc": "Shows what you can fix and what it costs, with your phone number always easy to find."
+    },
+    {
+      "id": "t8",
+      "name": "Home Services Pro",
+      "type": "website",
+      "sector": "services",
+      "layout": "center",
+      "price": 1099,
+      "rating": 4.7,
+      "sold": 49,
+      "pal": ["#334155", "#22C55E", "#F8FAFC", "#0F172A"],
+      "desc": "For plumbers, electricians, and cleaners who want to look professional and earn trust quickly."
+    },
+    {
+      "id": "t9",
+      "name": "Farm Fresh",
+      "type": "website",
+      "sector": "agri",
+      "layout": "mag",
+      "price": 899,
+      "rating": 4.9,
+      "sold": 66,
+      "pal": ["#166534", "#84CC16", "#F7FEE7", "#14280A"],
+      "desc": "Tell your farm's story and list your weekly harvest so buyers know what is available."
+    },
+    {
+      "id": "t10",
+      "name": "Habi Showcase",
+      "type": "website",
+      "sector": "crafts",
+      "layout": "mag",
+      "price": 1099,
+      "rating": 4.8,
+      "sold": 41,
+      "pal": ["#7C2D12", "#D97706", "#FFFBEB", "#3B1605"],
+      "desc": "A gallery-style site that lets your handmade products speak for themselves."
+    },
+    {
+      "id": "t11",
+      "name": "Island Tours",
+      "type": "website",
+      "sector": "tourism",
+      "layout": "center",
+      "price": 1399,
+      "rating": 4.9,
+      "sold": 72,
+      "pal": ["#0369A1", "#14B8A6", "#F0F9FF", "#082F49"],
+      "desc": "Show your tour packages with big pictures and clear prices, plus a button to ask about dates."
+    },
+    {
+      "id": "t12",
+      "name": "Order & Pickup App",
+      "type": "app",
+      "sector": "food",
+      "layout": "app",
+      "price": 2299,
+      "rating": 4.7,
+      "sold": 33,
+      "pal": ["#C2410C", "#F59E0B", "#FFF7ED", "#431407"],
+      "desc": "A mobile app design that lets customers pick meals and tell you when they will pick up."
+    },
+    {
+      "id": "t13",
+      "name": "Salon Booking App",
+      "type": "app",
+      "sector": "beauty",
+      "layout": "app",
+      "price": 2499,
+      "rating": 4.8,
+      "sold": 27,
+      "pal": ["#7C3AED", "#EC4899", "#FAF5FF", "#2E1065"],
+      "desc": "A mobile app design for choosing a service and a time, with reminders for your customers."
+    },
+    {
+      "id": "t14",
+      "name": "Suki Loyalty Card App",
+      "type": "app",
+      "sector": "retail",
+      "layout": "app",
+      "price": 1999,
+      "rating": 4.6,
+      "sold": 38,
+      "pal": ["#1D4ED8", "#22C55E", "#EFF6FF", "#172554"],
+      "desc": "Reward your regular customers with a simple digital stamp card design."
+    },
+    {
+      "id": "t15",
+      "name": "Grand Opening Banner",
+      "type": "banner",
+      "sector": "retail",
+      "layout": "poster",
+      "price": 299,
+      "rating": 4.9,
+      "sold": 302,
+      "pal": ["#DC2626", "#FACC15", "#FEF2F2", "#450A0A"],
+      "desc": "An eye-catching banner for your opening day. Works for print and for Facebook."
+    },
+    {
+      "id": "t16",
+      "name": "Harvest Sale Banner",
+      "type": "banner",
+      "sector": "agri",
+      "layout": "poster",
+      "price": 349,
+      "rating": 4.7,
+      "sold": 112,
+      "pal": ["#15803D", "#FACC15", "#F0FDF4", "#052E16"],
+      "desc": "Announce your harvest sale with a bright banner your customers will notice."
+    },
+    {
+      "id": "t17",
+      "name": "Summer Tour Banner",
+      "type": "banner",
+      "sector": "tourism",
+      "layout": "poster",
+      "price": 399,
+      "rating": 4.8,
+      "sold": 88,
+      "pal": ["#0284C7", "#FB923C", "#F0F9FF", "#082F49"],
+      "desc": "A sunny banner for promoting your tours and summer packages."
+    },
+    {
+      "id": "t18",
+      "name": "Facebook Promo Set",
+      "type": "ad",
+      "sector": "food",
+      "layout": "poster",
+      "price": 449,
+      "rating": 4.8,
+      "sold": 187,
+      "pal": ["#EA580C", "#7C3AED", "#FFF7ED", "#431407"],
+      "desc": "Three matching ads sized for Facebook posts, stories, and page covers."
+    },
+    {
+      "id": "t19",
+      "name": "Senior Discount Ad Set",
+      "type": "ad",
+      "sector": "services",
+      "layout": "poster",
+      "price": 449,
+      "rating": 4.9,
+      "sold": 64,
+      "pal": ["#1E40AF", "#10B981", "#EFF6FF", "#172554"],
+      "desc": "Clear, large-text ads that let your community know about your special offers."
+    },
+    {
+      "id": "t20",
+      "name": "Craft Fair Ad Set",
+      "type": "ad",
+      "sector": "crafts",
+      "layout": "poster",
+      "price": 499,
+      "rating": 4.7,
+      "sold": 35,
+      "pal": ["#9D174D", "#F59E0B", "#FFF1F2", "#4C0519"],
+      "desc": "Invite customers to your next fair or bazaar with these friendly ads."
+    }
+  ]
+}

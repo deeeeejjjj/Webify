@@ -1,0 +1,68 @@
+{
+  "consultCategories": [
+    {
+      "id": "marketing",
+      "name": "Digital Marketing Strategy",
+      "icon": "megaphone",
+      "desc": "Learn how to reach more customers using Facebook, Google Maps, and simple promos."
+    },
+    {
+      "id": "tech",
+      "name": "Technology Advice",
+      "icon": "monitor",
+      "desc": "Find out which tools and website type are right for your business and budget."
+    },
+    {
+      "id": "brand",
+      "name": "Brand Identity",
+      "icon": "palette",
+      "desc": "Get help with your business name, logo, colors, and how you present yourself."
+    }
+  ],
+  "consultants": [
+    {
+      "id": "a1",
+      "name": "Teresita Gonzales",
+      "title": "Small Business Marketing Adviser",
+      "cats": ["marketing", "brand"],
+      "years": 18,
+      "rating": 4.9,
+      "langs": "Filipino, English",
+      "hue": 220,
+      "bio": "A longtime business counselor who has helped neighborhood stores find their first online customers."
+    },
+    {
+      "id": "a2",
+      "name": "Rogelio Tan",
+      "title": "Technology Adviser",
+      "cats": ["tech"],
+      "years": 12,
+      "rating": 4.8,
+      "langs": "Filipino, English, Cebuano",
+      "hue": 265,
+      "bio": "Explains technology in plain words and helps owners avoid paying for things they do not need."
+    },
+    {
+      "id": "a3",
+      "name": "Carmela Reyes",
+      "title": "Brand & Packaging Adviser",
+      "cats": ["brand", "marketing"],
+      "years": 9,
+      "rating": 5,
+      "langs": "Filipino, English",
+      "hue": 330,
+      "bio": "Helps local products look ready for bigger markets, from logo to label."
+    },
+    {
+      "id": "a4",
+      "name": "Antonio Lim",
+      "title": "Digital Readiness Adviser",
+      "cats": ["tech", "marketing"],
+      "years": 15,
+      "rating": 4.7,
+      "langs": "Filipino, English, Hiligaynon",
+      "hue": 165,
+      "bio": "Walks owners through a step-by-step plan for going online, at a pace that feels comfortable."
+    }
+  ]
+}

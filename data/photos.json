@@ -1,0 +1,118 @@
+{
+  "files": {
+    "adobo": ["Chicken adobo (Philippines).jpg", "Arnold Gatilao", "CC BY 2.0"],
+    "sinigang": ["Sinigang na Baboy.jpg", "See file page", "CC BY 2.0"],
+    "pancit": ["Pancit Ilonggo Style.jpg", "pulaw", "CC BY 2.0"],
+    "bbq": ["Street food in Bocaue 03.jpg", "RamaGaspar", "CC BY-SA 4.0"],
+    "store1": ["Sari-Sari Store Samal Davao.jpg", "Burgermac", "CC BY 2.0"],
+    "store2": ["Sari-Sari Store Cavite.jpg", "Glen", "CC BY 2.0"],
+    "store3": ["Typical sari-sari store.jpg", "John Martin Perry", "CC BY-SA 3.0"],
+    "salon": ["Salon interior.jpg", "Wikidenizen", "CC BY 2.0"],
+    "chair": [
+      "The Indian Maharaja, Deccan Odyssey - Beauty Salon.jpg",
+      "Simon Pielow",
+      "CC BY-SA 2.0"
+    ],
+    "feet": [
+      "Woman's Feet Holding Pink Rose Fresh Pedicure.jpg",
+      "D. Sharon Pruitt",
+      "CC BY 2.0"
+    ],
+    "massage": [
+      "Spa Waterfall Massage on Galiano Island.jpg",
+      "Conny Nordin",
+      "CC BY-SA 4.0"
+    ],
+    "spa": ["Spa interiors - 1.jpg", "Avilash Behera", "CC BY-SA 3.0"],
+    "hvac": [
+      "379th ECES HVAC technicians combat rising temperatures (8502255).jpg",
+      "Derrick Bole, U.S. Air Force",
+      "Public domain"
+    ],
+    "fan": ["Modern electric fan at a school.jpg", "Curpharar", "CC BY-SA 4.0"],
+    "plumber": [
+      "Plumber uses two wrenches to tighten a fitting.jpg",
+      "Tomwsulcer",
+      "CC0"
+    ],
+    "field": ["2503Shingkang Wansuy Vegetables 14.jpg", "Judgefloro", "CC0"],
+    "tomato": [
+      "Grape tomatoes on the vine at Ljubljana Central Market.JPG",
+      "domdomegg",
+      "CC BY 4.0"
+    ],
+    "mango": ["Mango Carabao Asit fs8.jpg", "Asit K. Ghosh", "CC BY-SA 3.0"],
+    "farmer": [
+      "Farmer Romy in his organic LaTop Farm in Benguet, Baguio, Philippines - 1 (10694739384).jpg",
+      "Rowena Harbridge/AusAID",
+      "CC BY 2.0"
+    ],
+    "bags": ["El Nido Palawan handicraftsA.jpg", "See file page", "CC BY-SA 4.0"],
+    "basket": ["Kinab-anan Farm basket.jpg", "Alma Gamil", "CC BY 2.0"],
+    "inabel": [
+      "Candon Inabel cotton loom weaving displays fairB.jpg",
+      "See file page",
+      "CC BY-SA 4.0"
+    ],
+    "shelf": [
+      "Candon Inabel cotton loom weaving displays fair productsD.jpg",
+      "See file page",
+      "CC BY-SA 4.0"
+    ],
+    "bay": [
+      "Long boats await island hopping passengers to explore Bacuit Bay.JPG",
+      "Liisalaukkanen",
+      "CC BY-SA 3.0"
+    ],
+    "bangka": [
+      "Malapascua (island), Bangka, Banca boat, Philippines.jpg",
+      "Vyacheslav Argenberg",
+      "CC BY 4.0"
+    ],
+    "vigan": ["Vigan Calle Crisologo 1.jpg", "Simon Burchell", "CC BY-SA 3.0"],
+    "sunset": [
+      "Tropical sunset in El Nido, Palawan, Philippines.jpg",
+      "Vyacheslav Argenberg",
+      "CC BY 4.0"
+    ]
+  },
+  "hero": {
+    "t1": "adobo",
+    "t2": "pancit",
+    "t3": "store1",
+    "t4": "store2",
+    "t5": "salon",
+    "t6": "spa",
+    "t7": "plumber",
+    "t8": "hvac",
+    "t9": "farmer",
+    "t10": "bags",
+    "t11": "bay",
+    "t12": "sinigang",
+    "t13": "massage",
+    "t14": "store3",
+    "t15": "store2",
+    "t16": "field",
+    "t17": "sunset",
+    "t18": "bbq",
+    "t19": "plumber",
+    "t20": "shelf"
+  },
+  "items": {
+    "food": ["adobo", "sinigang", "pancit"],
+    "retail": ["store3", "store2", "store1"],
+    "beauty": ["chair", "feet", "massage"],
+    "services": ["hvac", "fan", "plumber"],
+    "agri": ["field", "tomato", "mango"],
+    "crafts": ["bags", "basket", "inabel"],
+    "tourism": ["bangka", "vigan", "sunset"]
+  },
+  "headline": {
+    "t15": "Grand Opening!",
+    "t16": "Harvest Sale!",
+    "t17": "Summer Tours!",
+    "t18": "Special Offer",
+    "t19": "Senior Discount",
+    "t20": "Craft Fair Sale"
+  }
+}
