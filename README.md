@@ -1,25 +1,61 @@
-# Webify - A Digital Marketing Studio for Micro-Enterprises
+# Webify
 
-## Abstract
+## 1. Project Title
 
-Webify is a web platform that helps Philippine micro and small enterprises build their online presence. It brings together a digital products marketplace, creator matching and messaging, a business consultation portal, a user dashboard with a project tracker, and a digital readiness self-assessment. The interface uses large buttons, plain language, and on-page help so that older and non-technical users can use it with ease. This version is a frontend prototype: fixed content is loaded from JSON files, user data is saved in the browser, and sign-in, payments, and creator replies are simulated.
+Webify: A web-based digital marketing and collaboration platform
 
-## Developers
+## 2. Selected Sector
 
-**Hexperts, BSIT 3C**
+Digital Innovation and AI
 
-- **Niduaza, Jessica** - Project Leader, Researcher, Designer
-- **Menorca, Krisha** - Researcher, Documentation, Finances Manager
-- **Luto, Daniel** - Lead Developer, Designer, Researcher
-- **Ramos, Lester** - Researcher, Documentation
-- **Hilario, Jhon Gabriel** - Researcher, Documentation
-- **Arroyo, Ace** - Researcher, Documentation
+## 3. Brief Problem Description
 
-## Tech Stack / Tools
+Micro, Small, and Medium Enterprises (MSMEs) account for a substantial share of registered businesses in the Philippines and generate employment across communities. Despite their economic contribution, many micro-enterprises continue to experience structural barriers in operational scalability and digital market integration.
 
-- **Frontend:** HTML5, CSS3, Vanilla JavaScript (ES6+)
-- **Data:** JSON files, Browser localStorage
-- **Browser APIs:** Fetch API, Web Speech API, IntersectionObserver, native `<dialog>`
-- **Development tools:** Visual Studio Code, Live Server
-- **AI assistance:** Claude Code (see `AI_DISCLOSURE.md`)
-- **Font and sample photos:** Google Fonts (Poppins), Wikimedia Commons
+## 4. Proposed Solution
+
+Webify is a web-based digital marketing and collaboration platform designed to address these challenges by connecting micro-enterprise owners with creators, service providers, and business support resources.
+
+## 5. Core Functional Features
+
+- **Digital Products Marketplace:** was developed to address the financial and technical barriers that prevent micro-enterprises from establishing a professional digital presence.
+
+- **Business Consultation Portal:** was designed to provide micro-enterprises with access to business-related consultation services and guidance. This feature addresses the difficulty experienced by small business owners in obtaining structured business assistance and identifying appropriate resources for improving their operations.
+
+- **Creator Match and Messaging Network:** was developed to address the difficulty micro-enterprises experience in finding affordable and reliable digital service providers. Many small business owners lack established connections with freelance developers, graphic designers, and other individuals capable of providing digital services.
+
+- **User Dashboard & Project Tracker:** wherein the clients and creators can track active project milestones, deliverable upload states, and completion deadlines.
+
+- **Digital Readiness Self-Assessment Tool:** wherein MSE owners may complete a 2-minute diagnostic questionnaire to receive automated web layout and service recommendations.
+
+## 6. Technologies Used
+
+- HTML5 / CSS3 / Vanilla JavaScript
+- GitHub
+- JSON files with the Fetch API
+- Web Storage API
+- Native browser APIs
+- Local static server
+
+## 7. Installation or Running Instructions
+
+The project is live on GitHub Pages: **https://deeeeejjjj.github.io/Webify/**
+
+Open the link in any modern browser (Chrome, Edge or Firefox). Nothing needs to be installed. An internet connection is needed for the Poppins font and the sample template photos.
+
+## 8. Group Members
+
+- Team Leader: Jessica Niduaza
+- Krisha Menorca
+- Daniel Luto
+- Lester Ja
+- Jhon Gabriel Hilario
+- Ace Arroyo
+
+## 9. Link to Full Project Documentation
+
+- The full project documentation is in [PROJECT_DOCUMENTATION.md](PROJECT_DOCUMENTATION.md). The final manuscript is in [docs/final-manuscript.pdf](docs/final-manuscript.pdf).
+
+## 10. AI Disclosure Reference
+
+- This project used AI assistance during development. The AI tool, the tasks, the exact prompts, the generated outputs we used, and how we checked them are recorded in [AI_DISCLOSURE.md](AI_DISCLOSURE.md). Each member's work is listed in [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
