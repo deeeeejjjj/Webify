@@ -46,7 +46,7 @@ Open the link in any modern browser (Chrome, Edge or Firefox). Nothing needs to 
 ##  Group Members
 
 - Team Leader: Jessica Niduaza
-- Daniel Luto - Project Developer
+- Project Developer: Daniel Luto
 - Krisha Menorca
 - Lester Ramos
 - Jhon Gabriel Hilario
