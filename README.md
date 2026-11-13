@@ -1,22 +1,22 @@
 # Webify
 
-## 1. Project Title
+##  Project Title
 
 Webify: A web-based digital marketing and collaboration platform
 
-## 2. Selected Sector
+##  Selected Sector
 
 Digital Innovation and AI
 
-## 3. Brief Problem Description
+##  Brief Problem Description
 
 Micro, Small, and Medium Enterprises (MSMEs) account for a substantial share of registered businesses in the Philippines and generate employment across communities. Despite their economic contribution, many micro-enterprises continue to experience structural barriers in operational scalability and digital market integration.
 
-## 4. Proposed Solution
+##  Proposed Solution
 
 Webify is a web-based digital marketing and collaboration platform designed to address these challenges by connecting micro-enterprise owners with creators, service providers, and business support resources.
 
-## 5. Core Functional Features
+##  Core Functional Features
 
 - **Digital Products Marketplace:** was developed to address the financial and technical barriers that prevent micro-enterprises from establishing a professional digital presence.
 
@@ -28,7 +28,7 @@ Webify is a web-based digital marketing and collaboration platform designed to a
 
 - **Digital Readiness Self-Assessment Tool:** wherein MSE owners may complete a 2-minute diagnostic questionnaire to receive automated web layout and service recommendations.
 
-## 6. Technologies Used
+##  Technologies Used
 
 - HTML5 / CSS3 / Vanilla JavaScript
 - GitHub
@@ -37,25 +37,25 @@ Webify is a web-based digital marketing and collaboration platform designed to a
 - Native browser APIs
 - Local static server
 
-## 7. Installation or Running Instructions
+##  Installation or Running Instructions
 
 The project is live on GitHub Pages: **https://deeeeejjjj.github.io/Webify/**
 
 Open the link in any modern browser (Chrome, Edge or Firefox). Nothing needs to be installed. An internet connection is needed for the Poppins font and the sample template photos.
 
-## 8. Group Members
+##  Group Members
 
 - Team Leader: Jessica Niduaza
+- Daniel Luto - Project Developer
 - Krisha Menorca
-- Daniel Luto
-- Lester Ja
+- Lester Ramos
 - Jhon Gabriel Hilario
 - Ace Arroyo
 
-## 9. Link to Full Project Documentation
+##  Link to Full Project Documentation
 
 - The full project documentation is in [PROJECT_DOCUMENTATION.md](PROJECT_DOCUMENTATION.md). The final manuscript is in [docs/final-manuscript.pdf](docs/final-manuscript.pdf).
 
-## 10. AI Disclosure Reference
+##  AI Disclosure Reference
 
 - This project used AI assistance during development. The AI tool, the tasks, the exact prompts, the generated outputs we used, and how we checked them are recorded in [AI_DISCLOSURE.md](AI_DISCLOSURE.md). Each member's work is listed in [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
